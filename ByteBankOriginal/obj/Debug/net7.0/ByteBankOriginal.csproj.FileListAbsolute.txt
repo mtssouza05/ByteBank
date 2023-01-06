@@ -1,0 +1,15 @@
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\bin\Debug\net7.0\ByteBankOriginal.exe
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\bin\Debug\net7.0\ByteBankOriginal.deps.json
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\bin\Debug\net7.0\ByteBankOriginal.runtimeconfig.json
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\bin\Debug\net7.0\ByteBankOriginal.dll
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\bin\Debug\net7.0\ByteBankOriginal.pdb
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.AssemblyInfo.cs
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.dll
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\refint\ByteBankOriginal.dll
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.pdb
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ByteBankOriginal.genruntimeconfig.cache
+C:\Users\matth\source\repos\ByteBankOriginal\ByteBankOriginal\obj\Debug\net7.0\ref\ByteBankOriginal.dll
